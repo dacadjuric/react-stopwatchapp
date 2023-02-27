@@ -1,0 +1,22 @@
+.stopwatch-background {
+  margin: 15%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.stopwatch-button {
+  border: 1px solid purple;
+  border-radius: 8px;
+  padding: 8px;
+  margin: 8px;
+  color: aliceblue;
+  font-weight: 800;
+  background-color: purple;
+}
+
+.stopwatch-button:hover {
+  background-color: rgb(66, 0, 131);
+  border-color: rgb(66, 0, 131);
+}
